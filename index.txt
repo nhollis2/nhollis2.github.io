@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+body {
+
+  background-color: lightblue;
+
+  color: black;
+
+  text-align: center;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+
+<h1>Welcome to the Best Website on earth!</h1>
+
+
+
+<p>This is a website showcasing everything to do with esports. Click the link below to access My Blogs and Coaching.</p>
+
+
+
+<a href="blogs.html">Blogs</a>
+
+  
+<a href="coaching.html">Coaching</a>
+
+  
+<img src="BlazBlue_Cross_Tag_Battle.png" alt="BlazBlue Cross Tag Battle">
+
+
+
+<p>The Allen Esports is an exciting and entertaining experience for players of all ages. It features dynamic gameplay, stunning visuals, and engaging storylines. Get ready to immerse yourself in a world of adventure and challenges. Play now and let the fun begin!</p>
+
+
+
+</body>
+
+</html>

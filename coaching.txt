@@ -1,0 +1,81 @@
+</head>
+
+<body>
+
+	<h1>BlazBlue Cross Tag Battle</h1>
+
+
+
+	<h2>Strategies</h2>
+
+	<p>Character Switching, Imputs, Blocking, Dashing, Play Style</p>
+
+
+
+	<h2>Detailed Description of the Game</h2>
+
+	<p>BlazBlue Cross Tag Battle is a 2D fighting game developed and published by Arc System Works. It brings together characters from four different popular fighting game franchises: BlazBlue, Persona 4 Arena, Under Night In-Birth, and RWBY. This crossover game offers fast-paced tag team battles, allowing players to form teams of two characters and fight against opponents with a variety of unique movesets and abilities.
+The game features a diverse roster of over twenty characters from the aforementioned franchises, each with their own play style and set of special moves. Players can choose their favorite characters and form dynamic tag teams, enabling seamless and strategic character switching during battles. The gameplay mechanics are accessible, making it an enjoyable experience for players of all skill levels, from beginners to seasoned fighting game veterans.
+BlazBlue Cross Tag Battle offers multiple game modes to keep players engaged. The story mode provides an extensive narrative, exploring the interactions between characters from different universes. There is also an arcade mode for those who enjoy quick battles against AI opponents. For players seeking competition, the game offers online multiplayer modes, allowing them to test their skills against opponents from all around the world.
+The graphics in BlazBlue Cross Tag Battle are vibrant and visually appealing, featuring detailed character models, colorful stages, and flashy special effects. The game's art style and animation are consistent with the high standards set by previous titles developed by Arc System Works.
+BlazBlue Cross Tag Battle has received positive reviews from both critics and players alike. It has been praised for its accessible gameplay, engaging story mode, robust online features, and enjoyable crossover character interactions. It holds an average score of around 80% on various review aggregation websites.
+In terms of ratings, BlazBlue Cross Tag Battle is rated T for Teen by the Entertainment Software Rating Board (ESRB). This means that the game is suitable for players ages 13 and older, as it contains content that may be suitable for teenagers and above.
+</p>
+
+
+
+	<h2>Audience</h2>
+
+	<p>This website is designed to cater to players at Mid-level. Mid-level players can learn advanced strategies and techniques, and advanced players can stay up-to-date with the latest game updates and meta. The content on this website is tailored to each level of experience, providing valuable insights and tips to enhance gameplay and overall performance.</p>
+
+
+
+	<h2>Character Switching</h2>
+
+	<p>[Insert detailed explanation of the game mechanics here]</p>
+
+
+
+	<h2>Imputs</h2>
+
+	<p>[Insert detailed explanation of how to play the game here]</p>
+
+	
+
+	<h2>Blocking</h2>
+
+	<p>[Insert detailed explanation of how to improve in the game here]</p>
+
+
+
+	<h2>Dashing</h2>
+
+	<p>[Insert specific strategies for the game here]</p>
+
+
+
+	<h2>Play Style</h2>
+
+	<p> </p>
+
+
+
+	<h2>Gameplay Clips</h2>
+
+	<div class="video">
+
+		<p> Video Links</p>
+
+	</div>
+
+
+
+	<footer class="author">
+
+		<p>Website created by NewYork Hollis</p>
+
+	</footer>
+
+</body>
+
+</html>
